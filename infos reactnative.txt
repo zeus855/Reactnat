@@ -1,0 +1,17 @@
+site a utiliser pour reactnative
+https://expo.dev/
+
+sur le telephone telecharger l'application Expo Go
+
+installer un package avec la ligne de commande         npm i-g npx
+Pour verifier la version faire la ligne de commande        npx -v
+
+pour installer expo faire la ligne de commande           npm i -g expo-cli
+
+pour creer un projet faire la ligne de commande        npx create-expo-app --template
+
+pour demarrer expo faire la ligne de commande          npx expo start ou expo start
+
+Pour installer cors                                    npm i cors
+
+permet d'installer le navigateur       npm i @react-navigation/native @react-navigation/native-stack @react-navigation/bottom-tabs
